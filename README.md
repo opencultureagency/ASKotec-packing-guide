@@ -1,6 +1,8 @@
-# ASKotec packing guide
+# #ASKotec Packing Guide
 
 Packing guide for the [#ASKotec (formerly called #ASKotek)](https://github.com/opencultureagency/ASKotec)
+
+Part of the [#ASKotec project](https://github.com/opencultureagency/ASKotec).
 
 ![](pictures/7.jpg)
 
